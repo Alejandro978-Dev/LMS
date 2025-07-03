@@ -25,7 +25,7 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background backdrop-blur">
       {/*Contenedor*/}
-      <div className="container flex h-16 items-center justify-between">
+      <div className="container flex h-16 items-center justify-between px-4">
         {/*Logo y navegación*/}
         <div className="flex items-center gap-2">
          {/*Logo*/}
